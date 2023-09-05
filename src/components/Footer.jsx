@@ -1,7 +1,7 @@
 import { Card, Container } from "react-bootstrap";
 
 const Footer = () => (
-    <Container>
+    <Container className="mt-3">
     <Card>
     
     <Card.Body>
